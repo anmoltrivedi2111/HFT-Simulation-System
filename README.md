@@ -4,7 +4,7 @@
 
 > **⚠️ Educational / Research Project**
 >
-> This system is designed for educational, research, and internship evaluation purposes.
+> This system is designed for educational and research, purposes.
 > It performs **paper trading simulation only** and does **not place real market orders**.
 > It should not be used directly for live financial trading without further testing,
 > validation, risk controls, and regulatory compliance.
