@@ -1,0 +1,6 @@
+fyers-apiv3
+python-dotenv
+pandas
+numpy
+websocket-client
+colorama
